@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Patil</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh2504&label=Profile%20views&color=0e75b6&style=flat" alt="harsh2504" /> </p>
+
 
 - 🔭 I’m currently working on [NinjaNest](https://github.com/Undefined-Hub/NinjaNest)
 
