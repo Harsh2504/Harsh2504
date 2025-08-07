@@ -19,3 +19,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh2504&show_icons=true&locale=en&layout=compact" alt="harsh2504" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh2504&show_icons=true&locale=en" alt="harsh2504" /></p>
+
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dan454ywo/image/upload/v1754541484/github-contribution-grid-snake-dark_fmsyei.svg" alt="GitHub Contribution Snake" />
+</p>
