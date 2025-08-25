@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [NinjaNest](https://github.com/Undefined-Hub/NinjaNest)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-git-main-harsh2504s-projects.vercel.app/](https://portfolio-git-main-harsh2504s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.harshpatil.me/](https://www.harshpatil.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
