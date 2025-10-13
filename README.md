@@ -27,7 +27,7 @@
   <a href="https://www.leetcode.com/harsh2504" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
-  <a href="mailto:harshpatil2504@gmail.com">
+  <a href="mailto:harsh2504official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
