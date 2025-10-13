@@ -62,8 +62,28 @@
   <img src="https://res.cloudinary.com/dan454ywo/image/upload/v1754541484/github-contribution-grid-snake-dark_fmsyei.svg" alt="GitHub Contribution Snake" />
 </p> -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh2504/harsh2504/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <!-- Dark theme image -->
+    <source
+      srcset="https://raw.githubusercontent.com/harsh2504/harsh2504/output/github-contribution-grid-snake-dark.svg"
+      media="(prefers-color-scheme: dark)"
+    />
+
+    <!-- Light theme image -->
+    <source
+      srcset="https://raw.githubusercontent.com/harsh2504/harsh2504/output/github-contribution-grid-snake.svg"
+      media="(prefers-color-scheme: light)"
+    />
+
+    <!-- Fallback (used when prefers-color-scheme not supported) -->
+    <img
+      src="https://raw.githubusercontent.com/harsh2504/harsh2504/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="600"
+    />
+  </picture>
 </p>
+
 
 ---
 
