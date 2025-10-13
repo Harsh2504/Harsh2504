@@ -63,26 +63,25 @@
 </p> -->
 <p align="center">
   <picture>
-    <!-- Dark theme image -->
+    <!-- Dark theme -->
     <source
       srcset="https://raw.githubusercontent.com/harsh2504/harsh2504/output/github-contribution-grid-snake-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
-
-    <!-- Light theme image -->
+    <!-- Light theme -->
     <source
       srcset="https://raw.githubusercontent.com/harsh2504/harsh2504/output/github-contribution-grid-snake.svg"
       media="(prefers-color-scheme: light)"
     />
-
-    <!-- Fallback (used when prefers-color-scheme not supported) -->
+    <!-- Fallback (light by default) -->
     <img
       src="https://raw.githubusercontent.com/harsh2504/harsh2504/output/github-contribution-grid-snake.svg"
       alt="GitHub Contribution Snake"
-      width="600"
     />
   </picture>
 </p>
+
+
 
 
 ---
