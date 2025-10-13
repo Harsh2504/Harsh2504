@@ -58,8 +58,11 @@
 ---
 
 ### 🐍 GitHub Activity Snake
-<p align="center">
+<!-- <p align="center">
   <img src="https://res.cloudinary.com/dan454ywo/image/upload/v1754541484/github-contribution-grid-snake-dark_fmsyei.svg" alt="GitHub Contribution Snake" />
+</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harsh2504/harsh2504/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
